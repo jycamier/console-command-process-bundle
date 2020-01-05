@@ -1,5 +1,5 @@
 {
-    "name": "jycamier/alice-process-bundle",
+    "name": "jycamier/console-command-process-bundle",
     "description": "Simple Task to run Console command for Process Bundle",
     "type": "symfony-bundle",
     "license": "MIT",
