@@ -1,0 +1,31 @@
+{
+    "name": "jycamier/alice-process-bundle",
+    "description": "Simple Task to run Console command for Process Bundle",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "keywords": [
+        "process",
+        "task",
+        "etl",
+        "transformation",
+        "import",
+        "export",
+        "console",
+        "command"
+    ],
+    "homepage": "https://github.com/jycamier/console-command-process-bundle",
+    "authors": [
+        {
+            "name": "Jean-Yves CAMIER",
+            "email": "jycamier@clever-age.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Jycamier\\ConsoleCommandProcessBundle\\": ""
+        }
+    },
+    "require": {
+        "cleverage/process-bundle": "3.*|dev-v3.0-dev"
+    }
+}
