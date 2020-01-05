@@ -4,7 +4,7 @@ namespace Jycamier\ConsoleCommandProcessBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class ConsoleCommandProcessBundle extends Bundle
+class JycamierConsoleCommandProcessBundle extends Bundle
 {
 
 }
